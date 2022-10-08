@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<PluginStrings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <__Language__>Spanish</__Language__>
+  <__LanguageCode__>es</__LanguageCode__>
+  <__Author__>ArkanHell</__Author__>
+
+  <PluginName>Plugin de Spotify</PluginName>
+  <PluginDescription>Controla tu aplicacion de Spotify con Macro Deck 2</PluginDescription>
+
+  <TokenCannotBeEmpty>El Token no puede estar vacio</TokenCannotBeEmpty>
+
+  <SpotifyAuthorize>Authorizar Spotify</SpotifyAuthorize>
+  <SpotifyOkButton>Ok</SpotifyOkButton>
+
+  <LoopActionName>Repetir</LoopActionName>
+  <LoopActionDescription>Ajusta el modo de repeticion</LoopActionDescription>
+  <LoopActionModeActivate>Repetir lista de reproduccion</LoopActionModeActivate>
+  <LoopActionModeDeactivate>No repetir</LoopActionModeDeactivate>
+  <LoopActionModeToggle>Repetir pista</LoopActionModeToggle>
+  <LoopActionWorkingModeText>Modo de funcionamiento</LoopActionWorkingModeText>
+  <LoopActionOff>Apagado</LoopActionOff>
+  <LoopActionSingle>Una sola pista</LoopActionSingle>
+  <LoopActionContext>Lista de reproduccion completa</LoopActionContext>
+
+  <PauseActionName>Reproduccion</PauseActionName>
+  <PauseActionDescription>Reproduce tu musica, pausala o continua escuchandola</PauseActionDescription>
+  <PauseActionModeActivate>Reproducir pista</PauseActionModeActivate>
+  <PauseActionModeDeactivate>Pausar pista</PauseActionModeDeactivate>
+  <PauseActionModeToggle>Alternar reproduccion</PauseActionModeToggle>
+  <PauseActionWorkingModeText>Modo de funcionamiento</PauseActionWorkingModeText>
+  <PauseActionPause>Pausar</PauseActionPause>
+  <PauseActionPlay>Reproducir</PauseActionPlay>
+  <PauseActionToggle>Alternar</PauseActionToggle>
+
+  <PlaylistActionName>Reproducir playlist</PlaylistActionName>
+  <PlaylistActionDescription>Reproducir una playlist especifica</PlaylistActionDescription>
+  <PlaylistActionPlaylist>Playlist</PlaylistActionPlaylist>
+  <PlaylistActionLibrary>Libreria personal</PlaylistActionLibrary>
+  <PlaylistActionTrack>Pista</PlaylistActionTrack>
+  <PlaylistActionSetPlaylist>Ajustar Playlist a</PlaylistActionSetPlaylist>
+
+  <PreviousActionName>Pista anterior</PreviousActionName>
+  <PreviousActionDescription>Volver a la pista anterior</PreviousActionDescription>
+
+  <ShuffleActionName>Alternar modo de reproduccion aleatorio</ShuffleActionName>
+  <ShuffleActionDescription>Ajusta si la musica se reproducira en modo aleatorio</ShuffleActionDescription>
+  <ShuffleActionModeActivate>Activar modo aleatorio</ShuffleActionModeActivate>
+  <ShuffleActionModeDeactivate>Desactivar modo aleatorio</ShuffleActionModeDeactivate>
+  <ShuffleActionModeToggle>Alternar modo aleatorio</ShuffleActionModeToggle>
+  <ShuffleActionWorkingModeText>Modo de funcionamiento</ShuffleActionWorkingModeText>
+  <ShuffleActionOff>Desactivado</ShuffleActionOff>
+  <ShuffleActionOn>Activado</ShuffleActionOn>
+  <ShuffleActionToggle>Alternar</ShuffleActionToggle>
+
+  <SkipActionName>Saltar pista</SkipActionName>
+  <SkipActionDescription>Salta la pista actual</SkipActionDescription>
+
+  <VolumeActionName>Ajustar volumen</VolumeActionName>
+  <VolumeActionDescription>Cambia el volumen del reproductor de Spotify</VolumeActionDescription>
+  <VolumeActionModeIncrease>Mas alto</VolumeActionModeIncrease>
+  <VolumeActionModeDecrease>Mas bajo</VolumeActionModeDecrease>
+  <VolumeActionModeSet>Ajustar a</VolumeActionModeSet>
+  <VolumeActionWorkingModeText>Modo de funcionamiento</VolumeActionWorkingModeText>
+  <VolumeActionDecrease>Bajar un</VolumeActionDecrease>
+  <VolumeActionIncrease>Subir un</VolumeActionIncrease>
+  <VolumeActionSet>Ajustar a</VolumeActionSet>
+
+  <LibraryActionName>Añadir/Quitar a libreria</LibraryActionName>
+  <LibraryActionDescription>Añade o quita la pista en reproduccion a tu libreria personal</LibraryActionDescription>
+  <LibraryActionModeActivate>Añadir a libreria</LibraryActionModeActivate>
+  <LibraryActionModeDeactivate>Quitar de libreria</LibraryActionModeDeactivate>
+  <LibraryActionModeToggle>Alternar añadido a libreria</LibraryActionModeToggle>
+  <LibraryActionWorkingModeText>Modo de funcionamiento</LibraryActionWorkingModeText>
+  <LibraryActionRemove>Quita</LibraryActionRemove>
+  <LibraryActionAdd>Añade</LibraryActionAdd>
+  <LibraryActionToggle>Alterna</LibraryActionToggle>
+</PluginStrings>
